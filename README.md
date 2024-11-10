@@ -14,7 +14,7 @@ To run this program, download and install the latest version of Go from [here](h
 
 1. Clone this repository onto your terminal by using the following command:
     ```bash
-    git clone https://learn.zone01kisumu.ke/git/kada/ascii-art-justify
+    git clone https://github.com/JosephOkumu/ascii-art-justify
     ```
 
 2. Navigate into the ascii-art-justify directory by using the command:
@@ -54,7 +54,7 @@ To run this program, download and install the latest version of Go from [here](h
 Pull requests are welcome! Users of this program are encouraged to contribute by adding features or fixing bugs. For major changes, please open an issue first to discuss your ideas.
 
 ### Authors
-[josotieno](https://learn.zone01kisumu.ke/git/josotieno/)
+[josotieno](https://github.com/JosephOkumu)
 
 [kada](https://learn.zone01kisumu.ke/git/kada/)
 
